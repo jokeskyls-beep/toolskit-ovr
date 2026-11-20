@@ -42,7 +42,8 @@ TLD_LIST = [
     ".eu", ".uk", ".co.uk", ".org.uk", ".de", ".fr", ".it", ".es", ".nl", ".ru", ".ch", ".se", 
     ".no", ".fi", ".dk", ".pl", ".pt", ".gr", ".ie", ".at", ".be", ".cz", ".hu", ".ro", ".ua", 
     ".us", ".ca", ".mx", ".br", ".ar", ".cl", ".co", ".pe", ".ve", ".ec", ".bo", ".py", ".uy", 
-    ".ae", ".sa", ".qa", ".kw", ".bh", ".om", ".jo", ".lb", ".il", ".tr", ".eg", ".za", ".ng"
+    ".ae", ".sa", ".qa", ".kw", ".bh", ".om", ".jo", ".lb", ".il", ".tr", ".eg", ".za", ".ng",
+    ".eu.org", ".edu.pk", ".my.id"
 ]
 
 class JKSYApp(ctk.CTk):
